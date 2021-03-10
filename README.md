@@ -4,7 +4,7 @@
 AndroidDev Programs
 ======
 
-Title | Description | Links
+Title | Description | Author | Links
 ------        |      ------     |      ------
-[Radio_Button](https://github.com/Smith-Coder/Android_Radio_Button.git)  |   RadioButton implementation   |     **nicely**
+[Radio_Button](https://github.com/Smith-Coder/Android_Radio_Button.git)  |   RadioButton implementation   |   [Smith-Coder](https://github.com/Smith-Coder)
 
