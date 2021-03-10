@@ -3,5 +3,5 @@ Alt-H1
 
 Title | Description | Links
 ------        |      ------     |      ------
-*Still*     |    `renders`  |     **nicely**
-1 | 2 | 3
+[I'm an inline-style link](https://www.google.com)  |    `renders`  |     **nicely**
+
