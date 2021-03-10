@@ -1,7 +1,7 @@
 Alt-H1
 ======
 
-Markdown | Less | Pretty
---- | --- | ---
+Title | Description | Links
+---         | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
