@@ -1,5 +1,5 @@
 #### 1. Click on the project title to reach the project
-#### 2. Clone the repo ```git clone <repo url>```
+#### 2. Clone the repo ```git clone <repo url>``` or download zip
 #### 3. Open the clonned project in android studio and run the same
 
 AndroidDev Programs
