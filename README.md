@@ -1,3 +1,6 @@
+#### 1. Click on the project title to reach to the project
+#### 2. Clone the repo ```git clone <repo url>```
+#### 3. Open the clonned project in android studio and run the same
 
 ### To get your project added, please submit a [pull request](https://github.com/Punithify/sample/pulls)
 
