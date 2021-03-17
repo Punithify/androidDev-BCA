@@ -12,4 +12,4 @@ Title | Description | Author |  Apk Link
 [Notification](https://github.com/Smith-Coder/Android_Notification)  |   Notification implementation without using broadcast receiver      |   [Smith-Coder](https://github.com/Smith-Coder)    |[Mega link](https://mega.nz/file/OAJknRTR#0STNyiRf3aZ7AKGKN7qLG-pUDGZrnCADf1j5uP-8CEU)
 [MultipleLayouts](https://github.com/Punithify/android-dev.git)  |   communication between activites and layouts using intent      |   [Punithify](https://github.com/Punithify)    |  
 ### To get your project added, fork the repo and submit a [pull request](https://github.com/Punithify/sample/pulls)
-#### Follow the same performa as above : have a title,description and links field can be used to specify apk links if any 
+#### Follow the same performa as above : have a title,description and the links field can be used to specify apk links if any 
